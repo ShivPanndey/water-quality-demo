@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+joblib
+requests
+flask
+dash
+paho-mqtt
+adafruit-circuitpython-ads1x15
+RPi.GPIO
+tflite-runtime
+onnxruntime
+pytest
+flake8
